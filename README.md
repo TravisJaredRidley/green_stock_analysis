@@ -1,4 +1,3 @@
-# green_stock_analysis
 # Overview Of Analysis
 The purpose of this analysis is to refactor VBA code in order to make it run faster, as we want to run the code over all stocks in the market rather than just the 12 we originally ran the code over. 
 
